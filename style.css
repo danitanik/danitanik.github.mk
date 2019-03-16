@@ -1,0 +1,33 @@
+
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+.cont{
+	display:flex;
+	justify-content: center;
+}
+.clear{
+	display:flex;
+	justify-content: center;
+}
+.col {
+	background-color: lightgray;
+	border: 2px solid black;
+	color: green;
+	text-align: center;
+	font-weight: bold;
+}
+.vtor {
+	background-color: rgba(107, 116, 146 ,30);
+	color: red;
+	text-align: center;
+	font-weight:normal;
+}
+.btn{
+	background-color: lightgray;
+	border: 2px solid black;
+	color: green;
+	text-align: center;
+	font-weight: bold;
+}
